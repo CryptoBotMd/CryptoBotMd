@@ -4,6 +4,6 @@ m.reply('𝐜𝐡𝐚𝐭 𝐛𝐥𝐨𝐜𝐜𝐚𝐭𝐚 𝐜𝐨𝐧 𝐬𝐮
 }
 handler.help = ['banchat']
 handler.tags = ['owner']
-handler.command = /^banchat|bangp$/i
+handler.command = /^banchat|bangp|off$/i
 handler.rowner = true
 export default handler
