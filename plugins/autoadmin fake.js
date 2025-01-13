@@ -18,7 +18,7 @@ let old = performance.now()
 let neww = performance.now()
 let speed = neww - old
 let info = `
-Ritenta, sarai piú fortunato 😂`.trim() 
+ *_COSA VUOI FARE PLEBEO PAGLIACCIO 😓, QUESTO COMANDO È RISERVATO  SOLO AL RE E ALLA REGINA_*`.trim() 
 conn.reply(m.chat, info, m, false, )
 }
 handler.help = ['autoadmin']
