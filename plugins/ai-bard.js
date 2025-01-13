@@ -36,7 +36,7 @@ await bardHandler(m, { conn, text, usedPrefix, command });
 }
 };
 
-handler.command = ['bard'];
+handler.command = /^bard/i;
 handler.help = ['bard', 'bardimg'];
 handler.tags = ['ai'];
 
