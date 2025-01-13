@@ -1,3 +1,7 @@
+𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐍𝐎𝐒𝐓𝐑𝐎 𝐂𝐀𝐍𝐀𝐋𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 
+
+https://whatsapp.com/channel/0029VaszSk1BvvsX4WtnN12e
+
 ══════ •⊰✦⊱• ══════
 
 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀
@@ -13,6 +17,7 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 ══════ •⊰✦⊱• ══════
 
 𝐂𝐨𝐦𝐚𝐧𝐝𝐢 𝐩𝐞𝐫 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐫𝐞
+
 ✧ termux-setup-storage
 
 ✧ pkg install ffmpeg -y
