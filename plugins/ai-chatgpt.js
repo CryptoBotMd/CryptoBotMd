@@ -99,12 +99,12 @@ import fetch from 'node-fetch';
           const akuariapiresult1 = await translate(`${akuariapijson1.respon}`, {to: 'es', autoCorrect: true});  
           m.reply(`${akuariapiresult1.text}`.trim());  
       } catch {  
-          throw `parla italiano`;  
+          throw `non ho capito `;  
        }}  
       }}  
      }}  
     }}  
    }}  
   }};  
-  handler.command = /dimmi|ai|ia/i 
+  handler.command = ['ildiofinocchiofrocioebreoterrone'];
  export default handler
