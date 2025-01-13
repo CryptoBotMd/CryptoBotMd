@@ -43,16 +43,11 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 ✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 ` 
 
  𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
- ```bash 
- > cd  
- ``` 
- ```bash 
+ 
  > cd /sdcard/CryptoBotMd 
- ``` 
- ```bash 
+ 
  > rmf Sessioni 
- ``` 
- ```bash 
+
  > npm start
 
 ══════ •⊰✦⊱• ══════
