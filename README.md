@@ -58,3 +58,6 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 ══════ •⊰✦⊱• ══════
 
 *ATTENZIONE* Tutte le modifiche che vedrete in questo bot, non saranno presenti sulla fork in questione.
+
+CREDITI:
+Owner 333 Bot -> +46 73 780 71 14
