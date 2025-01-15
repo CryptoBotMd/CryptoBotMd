@@ -28,7 +28,7 @@ let handler = async (message, { conn, usedPrefix }) => {
   
   // Comandi con formattazione stilizzata
   const commandList = `
-✨ *✧ 𝐌𝚵𝐍𝐔 ✧* ✨
+✨ *✧ 𝐌𝐄𝐍𝐔 ✧* ✨
 ────────────────────────
 ➤ ${usedPrefix}𝐩𝐫𝐨𝐩𝐫𝐢𝐞𝐭𝐚𝐫𝐢𝐨
 ➤ ${usedPrefix}𝐟𝐮𝐧𝐳𝐢𝐨𝐧𝐢
