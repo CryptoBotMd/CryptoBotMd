@@ -605,7 +605,7 @@ export async function callUpdate(callUpdate) {
     if (nk.status == "offer") {
     let callmsg = await this.reply(nk.from, `ciao @${nk.from.split('@')[0]}, c'è anticall.`, false, { mentions: [nk.from] })
     //let data = global.owner.filter(([id, isCreator]) => id && isCreator)
-    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:; ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ ;;;\nFN: ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ \nORG: ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ \nTITLE:\nitem1.TEL;waid=639708906948:+63 970 890 6948\nitem1.X-ABLabel: ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ \nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME: ꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰ \nEND:VCARD`
+    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝;;;\nFN:𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝\nORG:𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝\nTITLE:\nitem1.TEL;waid=639708906948:+63 970 890 6948\nitem1.X-ABLabel:𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝 \nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝 \nEND:VCARD`
     await this.sendMessage(nk.from, { contacts: { displayName: 'Unlimited', contacts: [{ vcard }] }}, {quoted: callmsg})
     await this.updateBlockStatus(nk.from, 'block')
     }
