@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import fs from 'fs'
@@ -7,18 +14,15 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
-] //Numero degli owner
-
+    ['XXXXXXXXXXX', '𝐕𝕀𝐆Ꮻ𝐑 💋', true],
+    ['XXXXXXXXXXX',],
+    
+]
+ //Numero degli owner 
 //────────────────────────────
 
 global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = [ '66949618631', 'xxxxxxxxxx']
 
 //────────────────────────────
 
@@ -54,25 +58,25 @@ global.APIKeys = {
 
 
 //────────────────────────────
-global.imagen1 = ['./media/menu1.jpg']
-global.imagen4 = fs.readFileSync('./bixbyvision16.png')
+global.imagen1 = ['./media/333.jpg']
+global.imagen4 = fs.readFileSync('./333.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭'
+global.packname = ' 𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝'
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
-global.vs = '𝟐.𝟐'
+global.vs = '𝟑.𝟎'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = '𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.wm = ' 𝐂𝐫ÿ𝐩𝐭øƁø𝐭-𝐌𝐝'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
